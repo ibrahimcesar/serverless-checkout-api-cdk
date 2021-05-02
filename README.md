@@ -10,6 +10,10 @@
 
 </div>
 
+## What
+
+![State Machine Definition](https://ibrahimcesar-github.s3.amazonaws.com/serverless-checkout/stepfunctions_graph.svg)
+
 ## Step by Step
 
 <div align="center">
