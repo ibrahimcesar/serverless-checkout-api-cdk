@@ -1,7 +1,7 @@
  <div align="center">
  
-  <h1>🛒 Serverless Checkout API with AWS Step Functions Syncronous Express Workflow</h1>
-  <blockquote>Using CDK as IaC with Well Architected Practices backed in</blockquote>
+  <h1>🛒 Serverless Checkout API in CDK</h1>
+  <blockquote>AWS Step Functions Syncronous Express Workflow with Lambda, HTTP API, DynamoDB and Well Architected Practices backed in</blockquote>
 
 [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
   
